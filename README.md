@@ -13,3 +13,5 @@ The project started when I grabbed a few tiny linear stepper motors from Aliexpr
 
 ![Top_Rev2_front](https://user-images.githubusercontent.com/4991664/83450751-3c92ee80-a42c-11ea-85e6-f52e42244566.png)
 
+![Bottom_Rev2_front](https://user-images.githubusercontent.com/4991664/83451225-f8541e00-a42c-11ea-98c7-cfa25a27851d.png)
+
