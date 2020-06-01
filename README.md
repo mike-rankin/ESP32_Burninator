@@ -1,7 +1,9 @@
 # ESP32_Burninator
 An ESP32 project using two linear stepper motors and a burning laser diode
 
-Came up with the project name from being a longtime fan of the homestarrunnerdotcom videos. 
+Came up with the project name from being a longtime fan of the homestarrunnerdotcom videos. Please don't sue me.
+
+The project started when I grabbed a few tiny linear stepper motors from Aliexpress (shorturl.at/cQ269) and wondered what I could do with them. They lack strength to cut material or draw using a pen but they should be able to hold dvd buring laser diode. A tiny adjustable lens from Aliexpress (shorturl.at/ahoJM) was needed used to focus the burn height. Pulling out the visible diode component and replacing it with the dvd diode was surprisingly easy.
 
 ![1](https://user-images.githubusercontent.com/4991664/83444488-d99c5a00-a421-11ea-84a2-7b2127fc71bc.jpg)
 
